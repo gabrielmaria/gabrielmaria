@@ -28,7 +28,7 @@ little bit playful.
 <tr>
 <td width="58%" valign="top">
 
-### `pesca-lendaria/`
+### [`pesca-lendaria/`](https://github.com/gabrielmaria/pesca-lendaria)
 
 A pixel-art fishing tycoon that runs entirely in the browser — **no frameworks, no build step**, and every sprite is drawn on canvas by hand-written JavaScript.
 
@@ -54,7 +54,7 @@ Three minutes of fishing every 12 hours, with a daily boss, a deep-sea endgame a
 <tr>
 <td width="58%" valign="top">
 
-### `pisca-pisca/`
+### [`pisca-pisca/`](https://github.com/gabrielmaria/pisca-pisca)
 
 A macOS menu bar app for the **20-20-20 rule**: every 20 minutes, look at something 20 feet away for 20 seconds. The name is what you do with your eyes while you rest them.
 
