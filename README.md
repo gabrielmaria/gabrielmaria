@@ -30,7 +30,7 @@ little bit playful.
 
 ### [`pesca-lendaria/`](https://github.com/gabrielmaria/pesca-lendaria)
 
-A pixel-art fishing tycoon that runs entirely in the browser — **no frameworks, no build step**, and every sprite is drawn on canvas by hand-written JavaScript.
+A pixel-art fishing tycoon that runs entirely in the browser: **no frameworks, no build step**, and every sprite is drawn on canvas by hand-written JavaScript.
 
 Three minutes of fishing every 12 hours, with a daily boss, a deep-sea endgame and 45 species to collect.
 
@@ -58,7 +58,7 @@ Three minutes of fishing every 12 hours, with a daily boss, a deep-sea endgame a
 
 A macOS menu bar app for the **20-20-20 rule**: every 20 minutes, look at something 20 feet away for 20 seconds. The name is what you do with your eyes while you rest them.
 
-Built with Swift and AppKit — around **0.7 MB on disk** and **15 MB of RAM**, with no Electron in sight. Bilingual (PT/EN), full-screen or corner mode, and starts with your Mac.
+Built with Swift and AppKit: around **0.7 MB on disk** and **15 MB of RAM**, with no Electron in sight. Bilingual (PT/EN), full-screen or corner mode, and starts with your Mac.
 
 <code>Swift</code> <code>AppKit</code> <code>macOS</code>
 
@@ -78,8 +78,8 @@ Built with Swift and AppKit — around **0.7 MB on disk** and **15 MB of RAM**, 
 | repo | what it is | stack |
 | :-- | :-- | :-- |
 | **[SpinSync](https://github.com/gabrielmaria/SpinSync)** | Rate, organise and share your favourite albums with friends. | `React` `Node.js` `MongoDB` |
-| **[Automercado](https://github.com/gabrielmaria/automercado)** | Supermarket management backend — REST API, authentication and persistence. | `Java` `Spring Boot` `MySQL` |
-| **[Battleship Game](https://github.com/gabrielmaria/battleship-game)** | My first project — a terminal Battleship game from my first year at university. | `C` |
+| **[Automercado](https://github.com/gabrielmaria/automercado)** | Supermarket management backend with REST API, authentication and persistence. | `Java` `Spring Boot` `MySQL` |
+| **[Battleship Game](https://github.com/gabrielmaria/battleship-game)** | My first project: a terminal Battleship game from my first year at university. | `C` |
 
 ## `cat ~/stack.txt`
 
