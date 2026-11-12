@@ -1,9 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Gabriel 👋</h1>
-
-**Computer Engineering student at the University of Beira Interior**  
-Covilhã, Portugal · I build small, fast, thoughtful software.
+<h1><code>gabriel@github:~$</code></h1>
 
 <p>
   <a href="mailto:g.miguensmaria@gmail.com"><img src="https://img.shields.io/badge/Email-g.miguensmaria@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
@@ -13,22 +10,25 @@ Covilhã, Portugal · I build small, fast, thoughtful software.
 
 </div>
 
-## About me
+```console
+gabriel@github:~$ whoami
+gabriel maria
 
-I'm a Computer Engineering student at **Universidade da Beira Interior** in Covilhã. I like building things end to end — native macOS utilities, web apps and the occasional game — and I care about keeping them small, fast and a little bit playful.
+gabriel@github:~$ cat about.txt
+Computer Engineering student at the University of Beira Interior.
+Covilhã, Portugal.
 
-- 🔭 Currently building **[Pisca Pisca](https://github.com/gabrielmaria/pisca-pisca)**, a native macOS break reminder.
-- 🎮 Also maintaining **[Pesca Lendária](https://pesca-lendaria.vercel.app)**, a no-build pixel-art fishing game.
-- 🌱 Currently exploring **Swift/AppKit** and game economy design through side projects.
-- 🌍 Portuguese · English
+I like building software end to end and keeping it simple, fast and a
+little bit playful.
+```
 
-## Featured projects
+## `~/projects`
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-### 🎣 Pesca Lendária
+### `pesca-lendaria/`
 
 A pixel-art fishing tycoon that runs entirely in the browser — **no frameworks, no build step**, and every sprite is drawn on canvas by hand-written JavaScript.
 
@@ -58,9 +58,9 @@ Three minutes of fishing every 12 hours, with a daily boss, a deep-sea endgame a
 </td>
 <td width="82%" valign="top">
 
-### 👁️ Pisca Pisca
+### `pisca-pisca/`
 
-A native macOS menu bar app for the **20-20-20 rule**: every 20 minutes, look at something 20 feet away for 20 seconds. The name is what you do with your eyes while you rest them.
+A macOS menu bar app for the **20-20-20 rule**: every 20 minutes, look at something 20 feet away for 20 seconds. The name is what you do with your eyes while you rest them.
 
 Built with Swift and AppKit — around **0.7 MB on disk** and **15 MB of RAM**, with no Electron in sight. Bilingual (PT/EN), full-screen or corner mode, and starts with your Mac.
 
@@ -72,17 +72,17 @@ Built with Swift and AppKit — around **0.7 MB on disk** and **15 MB of RAM**, 
 </tr>
 </table>
 
-### More things I've built
+### `ls ~/projects`
 
-| Project | What it is | Stack |
+| repo | what it is | stack |
 | :-- | :-- | :-- |
 | **[SpinSync](https://github.com/gabrielmaria/SpinSync)** | Rate, organise and share your favourite albums with friends. | `React` `Node.js` `MongoDB` |
-| **[Organizador](https://github.com/gabrielmaria/organizador)** | Availability board for a university music group, with OCR to read screenshots. | `Python` `Flask` `SQLite` |
+| **[Automercado](https://github.com/gabrielmaria/automercado)** | Supermarket management backend — REST API, authentication and persistence. | `Java` `Spring Boot` `MySQL` |
 | **[Battleship Game](https://github.com/gabrielmaria/battleship-game)** | My first project — a terminal Battleship game from my first year at university. | `C` |
 
-## Tech I work with
+## `cat ~/stack.txt`
 
-**Languages**
+**languages**
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
@@ -94,7 +94,7 @@ Built with Swift and AppKit — around **0.7 MB on disk** and **15 MB of RAM**, 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-**Web & backend**
+**web & backend**
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
@@ -106,7 +106,7 @@ Built with Swift and AppKit — around **0.7 MB on disk** and **15 MB of RAM**, 
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
 </p>
 
-**Tools & platforms**
+**tools**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
@@ -117,7 +117,7 @@ Built with Swift and AppKit — around **0.7 MB on disk** and **15 MB of RAM**, 
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
 </p>
 
-## GitHub, in numbers
+## `~/stats`
 
 <div align="center">
 
@@ -130,13 +130,6 @@ Built with Swift and AppKit — around **0.7 MB on disk** and **15 MB of RAM**, 
 
 </div>
 
----
-
-<div align="center">
-
-**Let's build something together.**  
-[g.miguensmaria@gmail.com](mailto:g.miguensmaria@gmail.com) · [@gabrielmaria4](https://instagram.com/gabrielmaria4)
-
-<sub>Thanks for stopping by 🐟</sub>
-
-</div>
+```console
+gabriel@github:~$ exit
+```
