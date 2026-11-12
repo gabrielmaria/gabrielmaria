@@ -38,6 +38,7 @@ Three minutes of fishing every 12 hours, with a daily boss, a deep-sea endgame a
 
 <p>
   <a href="https://pesca-lendaria.vercel.app"><img src="https://img.shields.io/badge/Play_now-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Play now"></a>
+  <a href="https://github.com/gabrielmaria/pesca-lendaria"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
 </p>
 
 </td>
@@ -51,12 +52,7 @@ Three minutes of fishing every 12 hours, with a daily boss, a deep-sea endgame a
 
 <table>
 <tr>
-<td width="18%" valign="top">
-
-<img src="assets/pisca-pisca-icon.png" width="110" alt="Pisca Pisca app icon">
-
-</td>
-<td width="82%" valign="top">
+<td width="58%" valign="top">
 
 ### `pisca-pisca/`
 
@@ -67,6 +63,11 @@ Built with Swift and AppKit — around **0.7 MB on disk** and **15 MB of RAM**, 
 <code>Swift</code> <code>AppKit</code> <code>macOS</code>
 
 [![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielmaria/pisca-pisca)
+
+</td>
+<td width="42%" valign="top">
+
+<img src="assets/pisca-pisca.png" width="100%" alt="Pisca Pisca notification screenshot">
 
 </td>
 </tr>
